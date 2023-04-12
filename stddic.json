@@ -1,0 +1,26 @@
+{
+    "1": {
+        "enrollment": "1234567",
+        "name": "sdfgh",
+        "department": "sdfgh",
+        "city": "sdfgh"
+    },
+    "2": {
+        "enrollment": "234567",
+        "name": "sderftgyh",
+        "department": "werty",
+        "city": "wert"
+    },
+    "3": {
+        "enrollment": "123456",
+        "name": "sdfgh",
+        "department": "dfgh",
+        "city": "sdfgh"
+    },
+    "4": {
+        "enrollment": "2345",
+        "name": "sdfgh",
+        "department": "sdfgh",
+        "city": "sdfg"
+    }
+}
